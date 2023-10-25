@@ -1,0 +1,11 @@
+{
+  "name": "clack-cli-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nawodyaishan/clack-cli-app.git",
+  "author": "Nawodya Ishan <nawodyain@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0"
+  }
+}
