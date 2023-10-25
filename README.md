@@ -57,7 +57,7 @@ const readyToPlay = await p.select({
 ## Prerequisites
 
 - Node.js
-- npm or yarn
+- pnpm 
 
 ## Installation
 
