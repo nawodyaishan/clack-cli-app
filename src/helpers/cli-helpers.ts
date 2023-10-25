@@ -2,7 +2,7 @@ import * as p from "@clack/prompts";
 import color from "picocolors";
 import {questionsData} from "../data/questions-data";
 import {QuestionHelper} from "./question-helper";
-import {StateStore} from "../features/StateScore";
+import {StateStore} from "../features/state-score";
 import {LOADING_INTERVAL, TOTAL_PROGRESS} from "../data/constants";
 
 export abstract class CliHelpers {

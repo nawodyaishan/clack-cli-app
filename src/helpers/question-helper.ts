@@ -1,6 +1,6 @@
 import * as p from '@clack/prompts'
 import {IQuestion} from "../features/question";
-import {StateStore} from "../features/StateScore";
+import {StateStore} from "../features/state-score";
 
 export abstract class QuestionHelper {
     static async askQuestion(question: IQuestion) {
