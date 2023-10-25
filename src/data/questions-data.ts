@@ -1,3 +1,5 @@
+import {Question} from "../features/question";
+
 export const questionsData: Question[] = [
     new Question({
         question: "What year was the game 'The Legend of Zelda' first released?",

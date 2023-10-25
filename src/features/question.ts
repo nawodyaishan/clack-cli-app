@@ -1,10 +1,10 @@
-interface IQuestion {
+export interface IQuestion {
     question: string
     answersArray: string[]
     correctAnswerIndex: number
 }
 
-class Question implements IQuestion {
+export class Question implements IQuestion {
     question: string
     answersArray: string[]
     correctAnswerIndex: number
